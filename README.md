@@ -8,7 +8,7 @@
 ## My Blog
 
 Think ML - https://goodboyanush.github.io/
-
+ML_1-https://medium.com/@vijeshs/how-does-machine-learning-help-us-dacf17584b69
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
