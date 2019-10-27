@@ -12,6 +12,8 @@ ML_1-https://medium.com/@vijeshs/how-does-machine-learning-help-us-dacf17584b69
 
 ML_2-https://medium.com/@vijeshs/linear-regression-vs-logistic-regression-2c58534f5597
 
+ML_3-https://medium.com/@vijeshs/regression-neural-network-c076fa76b026
+
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
