@@ -15,6 +15,7 @@ ML_2-https://medium.com/@vijeshs/linear-regression-vs-logistic-regression-2c5853
 ML_3-https://medium.com/@vijeshs/regression-neural-network-c076fa76b026
 
 coding: done!
+
 ML_Project-https://github.com/vijeshs/Machine-Learning
 
 
