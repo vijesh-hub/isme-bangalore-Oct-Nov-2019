@@ -18,6 +18,8 @@ coding: done!
 
 ML_Project-https://github.com/vijeshs/Machine-Learning
 
+ML_4-https://medium.com/@vijeshs/why-do-we-need-kernel-trick-ffa5fec01863
+
 
 ## Course Overview
 
