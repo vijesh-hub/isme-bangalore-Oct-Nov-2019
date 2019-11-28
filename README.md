@@ -20,6 +20,7 @@ ML_Project-https://github.com/vijeshs/Machine-Learning
 
 ML_4-https://medium.com/@vijeshs/why-do-we-need-kernel-trick-ffa5fec01863
 
+ML_5-https://medium.com/@vijeshs/advanced-machine-learning-c970c0329be
 
 ## Course Overview
 
