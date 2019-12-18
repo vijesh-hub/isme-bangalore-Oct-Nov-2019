@@ -16,7 +16,7 @@ ML_3-https://medium.com/@vijeshs/regression-neural-network-c076fa76b026
 
 coding: done!
 
-ML_Project-https://github.com/vijeshs/Machine-Learning
+ML_Project(mid term & End Term)-https://github.com/vijeshs/Machine-Learning
 
 ML_4-https://medium.com/@vijeshs/why-do-we-need-kernel-trick-ffa5fec01863
 
